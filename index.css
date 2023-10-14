@@ -125,11 +125,11 @@ p {
 
 
 .second {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: auto;
-    /* background-color: color-mix(in lch, pink 40%, yellow); */
     margin-top: 20px;
-    background-image: url("https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/60108d33abf33c3e87e59141_6002086f72b72735a101d204_color-theory.jpeg");
+    background: linear-gradient(to right, #ff68c2, #ffd95d);
+    
 
 }
 
