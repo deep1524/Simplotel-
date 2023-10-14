@@ -10,10 +10,6 @@ p {
     padding: 0;
     list-style: none;
 }
-
-
-
-
 /* navbar*/
 .topnav {
     overflow: hidden;
@@ -312,14 +308,6 @@ p {
         color: white;
         margin-top: 10px;
     }
-
-    /* .inside{
-    display: flex;
-    border: 5px solid black;
-    text-align: center;
-    margin-top: 40px;
-   
-} */
     .order {
         margin-top: 20px;
         font-size: x-large;
