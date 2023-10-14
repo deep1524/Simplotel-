@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+</head>
+
+<body>
+
+    <div class="main">
+        <!-- //navbar -->
+        <!-- <nav class="navbar">
+           
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Order</a></li>
+                <li><a href="#">Food</a></li>
+                <li><a href="#">Restaurant</a></li>
+                <li><a href="#">Testimonials</a></li>
+                <li><a href="#">Conatct Us</a></li>
+            </ul>
+            <i class="fa fa-shopping-cart" style="margin-right:-180px;font-size:24px"></i>
+            <i class="fa fa-phone" style="margin-right: 20px;font-size:24px" ></i>
+            <div class="menu-toggle">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </nav> -->
+
+        <div class="topnav" id="myTopnav">
+            <div>
+            <a href="#home" class="active">Home</a>
+            <a href="#news">Order</a>
+            <a href="#contact">Food</a>
+            <a href="#about">Restaurant</a>
+            <a href="#about">Testimonials</a>
+            <a href="#about">Conatct Us</a>
+        </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+            <div style="margin: auto;">
+                <i class="fa fa-phone" style="font-size:24px" ></i>
+                <i class="fa fa-shopping-cart" style="font-size:24px"></i>
+                
+            </div>
+            
+          </div>
+
+        <!-- //navbar end -->
+
+        <div class="poster">
+            <div>
+                <div class="lorem">
+                    <h1>LOREM IPSUM</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla distinctio atque labore tenetur
+                        repellat beatae et iste, repellendus autem dicta.</p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+        <div class="second">
+            <div class="order">
+                <h1>Order Now</h1>
+            </div>
+            <div class="inside">
+                <div>
+                    <div class="insidediv">
+                        <div class="insidedivdiv">
+                            <img class="img" src="./image/img4.jpg" alt="image" />
+                            <h3 class="h3">BURGER</h3>
+                            <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate</p>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div>
+                    <div class="insidediv">
+                        <div class="insidedivdiv">
+                            <img class="img" src="./image/img2.jpg" alt="image" />
+                            <h3 class="h3">PIZZA</h3>
+                            <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate</p>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="insidediv">
+                        <div class="insidedivdiv">
+                            <img class="img" src="./image/img3.jpg" alt="image" />
+                            <h3 class="h3">PASTA</h3>
+                            <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="order2">
+                <button class="btn">Order </button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+<script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+    </script>
