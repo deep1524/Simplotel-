@@ -4,7 +4,7 @@
 This is the assignment for Simplotek company where I am created Responsive home page.
 
 ## Demo
-https://652b9efb14031e107286ee6e--darling-swan-725244.netlify.app/
+https://652ba3d056e84e49bfa27678--spiffy-figolla-c498d9.netlify.app/
 
 
 ##  Tech-stack used
