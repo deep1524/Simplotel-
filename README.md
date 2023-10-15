@@ -30,18 +30,23 @@ Frontend : HTML ,CSS
 
   **2) middle view
    ---
-![Screenshot (1335)](https://github.com/deep1524/Simplotel-/assets/105913793/82cd0cdf-851d-4f47-9ac0-60cd986ca502)
+![Screenshot (1340)](https://github.com/deep1524/Simplotel-/assets/105913793/f331fa4f-95de-41f2-9aa5-80cc4a76f67f)
+
   ---
   **3) tablet view
   ---
-![Screenshot (1336)](https://github.com/deep1524/Simplotel-/assets/105913793/148bf89f-a12e-4864-baa1-d347a8636407)
 
-![Screenshot (1337)](https://github.com/deep1524/Simplotel-/assets/105913793/4b406be0-e893-46fb-b41c-116b50079666)
+![Screenshot (1341)](https://github.com/deep1524/Simplotel-/assets/105913793/c399b50a-3fca-42a3-85dc-6a5b4d329086)
+
+![Screenshot (1342)](https://github.com/deep1524/Simplotel-/assets/105913793/47eab973-bab2-4100-a80e-759612f045c2)
+
  ---
   **4) Mobile view**
-![Screenshot (1338)](https://github.com/deep1524/Simplotel-/assets/105913793/70555ef6-9469-40c9-8822-0c6e5b4b1352)
 
- ![Screenshot (1339)](https://github.com/deep1524/Simplotel-/assets/105913793/9e541170-450d-4170-93ba-381238e14d34)
+---
+![Screenshot (1343)](https://github.com/deep1524/Simplotel-/assets/105913793/6aa126ba-8c25-4526-8a93-12cda5f17b64)
+
+![Screenshot (1344)](https://github.com/deep1524/Simplotel-/assets/105913793/94b9d961-718b-45dd-8804-597b9d48dafd)
 
   ---
 
