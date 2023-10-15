@@ -85,11 +85,11 @@ p {
     width: 100%;
     height: 800px;
     border: 1px solid white;
-    background-color: rgb(211, 121, 159);
+    /* background-color: rgb(211, 121, 159); */
     background-image: url("./image/img1.jpg");
     object-fit: cover;
     background-repeat: no-repeat;
-    background-size: 100% 95%;
+    background-size: 100% 100%;
     margin: auto;
 }
 
@@ -111,7 +111,11 @@ p {
     color: white;
     margin-top: 10px;
 }
-
+.color{
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(to right, #ff68c2, #ffd95d);
+}
 /* poster end */
 
 /* bottom part start */
@@ -205,10 +209,10 @@ p {
     .poster {
         width: 100%;
         height: 300px;
-        background-color: pink;
+        /* background-color: pink; */
         background-image: url("./image/img1.jpg");
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: 100% 100%;
     }
 
     .lorem {
@@ -239,10 +243,10 @@ p {
     .poster {
         width: 100%;
         height: 450px;
-        background-color: pink;
+        /* background-color: pink; */
         background-image: url("./image/img1.jpg");
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: 100% 100%;
     }
 
     .lorem {
@@ -268,14 +272,13 @@ p {
     .main {
         width: 100%;
     }
-
     .poster {
         width: 100%;
         height: 600px;
-        background-color: pink;
+        /* background-color: pink; */
         background-image: url("./image/img1.jpg");
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: 100% 100%;
     }
 
     .lorem {
